@@ -1,3 +1,4 @@
+/* General */
 body{
     background-color: #F6F8F9;
     margin: 0px;
@@ -8,12 +9,19 @@ header{
     font-size: 50px;
     text-align: left;
 
+
 }
 
 main{
     background-color: white;
     width: 75;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+    
 }
+/* / General */
 
 /* CrossAndCheckmark */
 .Checkmark {
@@ -32,3 +40,84 @@ main{
     border-radius: 50%;
   }
   /* / CrossAndCheckmark */
+
+.Bottoni{
+    font-size: 18px;
+    border-radius: 5%;
+    text-align: center;
+    width: 200px;
+    padding-top: 10px;
+}
+
+.B_Button{
+    border-radius: 5%;
+    background-color: #45ABE9;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+}
+
+.W_Button{
+    border-radius: 5%;
+    border:1px solid #C5CBCF;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #C5CBCF;
+}
+
+hr{
+    color: #F6F8F9;
+}
+
+.Titoli{
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.Ev_blue{
+    text-align: center;
+    border-radius: 10%;
+    background-color: #45ABE9 ;
+    color: white;
+}
+
+.Ev_purple{
+    text-align: center;
+    border-radius: 10%;
+    background-color: #9C72E4 ;
+    color: white;
+}
+
+.Ev_green{
+    text-align: center;
+    border-radius: 10%;
+    background-color: #64C0A9 ;
+    color: white;
+}
+
+.Ev_orange{
+    text-align: center;
+    border-radius: 10%;
+    background-color: #F29E33 ;
+    color: white;
+}
+
+.Ev_red{
+    text-align: center;
+    border-radius: 10%;
+    background-color: #D763A1 ;
+    color: white;
+}
+
+.Ev_L_green{
+    text-align: center;
+    border-radius: 10%;
+    background-color: #B0C925 ;
+    color: white;
+}
+
+.bmargin{
+    margin-bottom: 15px;
+}
